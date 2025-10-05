@@ -9,6 +9,7 @@ I'm an IT student at Cavite State University – Trece. Just learning, building,
 ![CSS3](https://img.shields.io/badge/-CSS3-ff9a9e?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffc0cb?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fab1ce?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-f5a9b8?logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-f78fb3?logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-f3a683?logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-f8a5c2?logo=mysql&logoColor=white)
@@ -23,7 +24,8 @@ I'm an IT student at Cavite State University – Trece. Just learning, building,
 ---
 
 ### 🌱 Currently Learning
-- Next.js projects and full-stack app development
+- Next.js projects 
+- Web app development
 
 ---
 
